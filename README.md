@@ -4,7 +4,7 @@
 
 ## Empresas onde trabalhei
 <div>
-<img height="100px" maring-right="10px" src="https://pfarma.com.br/images/empresa/fqm-farmoquimica.jpg"/>
+<img height="100px" maring-right="10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXU0etOF-1hLanmCkELYjx0yrv2KDwCaRbD554Z116JPNnIZKhdF1jsbq-PyonAD_RwQ&usqp=CAU"/>
 <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3X3DyF920-ZxM8HSWrH0Z01_2EP6VwORRZ1-AZJGV-kEWHYXfQ0uU3GkFr3UJijE0-s&usqp=CAU"/>
 </div>
 
