@@ -32,7 +32,7 @@
 </div>
 
 ## Badges
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
 <a href="https://www.credly.com/badges/d2e6a689-7d98-4985-9909-cecbe90b6fba/linked_in" target="_blank"><img src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="100" height="100" /></a>
 
 <a href="https://www.credly.com/badges/416b6da7-bd84-4fe2-9509-47c7533b5bc0/linked_in" target="_blank"><img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="100" height="100"/></a>
