@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-3F3FBF?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </div>
 
 ## Cursos e Certificações
