@@ -34,8 +34,8 @@
 
 ## Cursos e Certificações
 <div style="display: flex; gap: 10px;">
-<a href="https://www.credly.com/badges/d2e6a689-7d98-4985-9909-cecbe90b6fba/linked_in" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" height="150" /></a> // AZ900
-<a href="https://www.credly.com/badges/a6f34332-8bc4-4183-bc7f-869a0affe89a" target="_blank"><img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="150" height="150" /></a> //AZ204
+<a href="https://www.credly.com/badges/d2e6a689-7d98-4985-9909-cecbe90b6fba/linked_in" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" height="150" /></a>
+<a href="https://www.credly.com/badges/a6f34332-8bc4-4183-bc7f-869a0affe89a" target="_blank"><img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="150" height="150" /></a>
 <a href="https://www.credly.com/badges/416b6da7-bd84-4fe2-9509-47c7533b5bc0/linked_in" target="_blank"><img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="150" height="150"/></a>
 <a href="https://www.credly.com/earner/earned/badge/e6cafb96-7128-43f5-aa4b-c5f1bc35aa7e" target="_blank"><img src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="150" height="150" /></a>
 </div>
