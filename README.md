@@ -1,5 +1,10 @@
 ## Sobre mim
-*Olá, Me chamo Rennan e busco conhecimento em programação. Atualmente trabalho na área de cloud Azure. Estudo também soluções AWS e procuro me especializar nas tecnologias mais utilizadas atualmente*
+*Olá, Me chamo Rennan e possuo 6 anos na área de TI, acumulando conhecimentos técnicos e de negócio, participando de projetos utilizando metodoligias ágeis e atuando como líder técnico em projetos. Boa comunicação com o time interno de TI e fornecedores, seguindo as boas práticas com o objetivo de alinhar a TI ao negócio.
+Acumulei skills de infraestrutura de TI, negócio e atualmente em sistemas, desenvolvimento e arquitetura cloud. Possuo alguns skills como DEVOPS, configurando pipelines em projetos do github e Azure Devops para ambientes cloud´s. 
+
+Lidero e atuo em projetos de desenvolvimento de sites, utilizando as linguagens PHP com wordpress, laravel, ReactJs. Tenho conhecimento na ISO 27001 no que tange à segurança da informação, aplicando o framework em projetos web, configurando ferramentas para IPS e IDS para mitigar vulnerabilidades com tecnologia fortiweb as a service da fortinet.
+
+Sou formado em sistemas de informação na estácio, cursei pós graduação em cloud computing e atualmente, MBA em gestão de TI.*
 
 
 ## Empresas onde trabalhei
