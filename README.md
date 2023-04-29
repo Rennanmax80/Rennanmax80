@@ -4,7 +4,9 @@ Acumulei skills de infraestrutura de TI, negócio e atualmente em sistemas, dese
 
 Lidero e atuo em projetos de desenvolvimento de sites, utilizando as linguagens PHP com wordpress, laravel, ReactJs. Tenho conhecimento na ISO 27001 no que tange à segurança da informação, aplicando o framework em projetos web, configurando ferramentas para IPS e IDS para mitigar vulnerabilidades com tecnologia fortiweb as a service da fortinet.
 
-Sou formado em sistemas de informação na estácio, cursei pós graduação em cloud computing e atualmente, MBA em gestão de TI.*
+Sou formado em sistemas de informação na estácio, cursei pós graduação em cloud computing e atualmente, MBA em gestão de TI.
+
+Possuo algumas certificações e busco constantemente conhecimento para aplicar meus hard skills e soft skills.*
 
 
 ## Empresas onde trabalhei
