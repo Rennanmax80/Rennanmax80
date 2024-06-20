@@ -2,8 +2,6 @@
 *Olá, Me chamo Rennan e possuo 6 anos na área de TI, acumulando conhecimentos técnicos e de negócio, participando de projetos utilizando metodoligias ágeis e atuando como líder técnico em projetos. Boa comunicação com o time interno de TI e fornecedores, seguindo as boas práticas com o objetivo de alinhar a TI ao negócio.
 Acumulei skills de infraestrutura de TI, negócio e atualmente em sistemas, desenvolvimento e arquitetura cloud. Possuo alguns skills como DEVOPS, configurando pipelines em projetos do github e Azure Devops para ambientes cloud´s. 
 
-Lidero e atuo em projetos de desenvolvimento de sites, utilizando as linguagens PHP com wordpress, laravel, ReactJs. Tenho conhecimento na ISO 27001 no que tange à segurança da informação, aplicando o framework em projetos web, configurando ferramentas para IPS e IDS para mitigar vulnerabilidades com tecnologia fortiweb as a service da fortinet.
-
 Experiência em Gestão dos custos dos ambientes cloud;
 - Monitoramento e visualização do uso e dos custos da nuvem;
 - Análises financeiras para tomadas de decisão;
