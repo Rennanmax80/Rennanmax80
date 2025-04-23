@@ -17,6 +17,8 @@ Possuo algumas certificações e busco constantemente conhecimento para aplicar 
 <img height="100px" maring-right="10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXU0etOF-1hLanmCkELYjx0yrv2KDwCaRbD554Z116JPNnIZKhdF1jsbq-PyonAD_RwQ&usqp=CAU"/>
 <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3X3DyF920-ZxM8HSWrH0Z01_2EP6VwORRZ1-AZJGV-kEWHYXfQ0uU3GkFr3UJijE0-s&usqp=CAU"/>
 </div>
+<img height="100px" src="https://media.licdn.com/dms/image/v2/C560BAQGXIelJHW8FnA/company-logo_200_200/company-logo_200_200/0/1631392052206?e=2147483647&v=beta&t=iT7Av6n6SH8vyihx56u689OyjAA9hhX81xtw4CiBIkw"/>
+</div>
 
 ## Conhecimentos:
 <div style="display: flex; gap: 10px;">
